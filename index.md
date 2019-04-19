@@ -1,24 +1,24 @@
 ---
 layout: home
-tagline: The Hassle-Free JavaScript Toolchain Manager
-start: https://docs.notionjs.com/guide/getting-started/
+tagline: The JavaScript Launcher 🚀
+start: https://docs.jetson.sh/guide/getting-started/
 features:
   - title: Reliable
     description: Ensure everyone in your project uses an identical dev environment, from the Node version to your preferred package manager.
   - title: Universal
     description: Enjoy the same command-line experience in every shell and every major operating system.
   - title: Fast
-    description: Notion is implemented in Rust and deployed as a static executable for maximum performance.
+    description: Jetson is implemented in Rust and deployed as a static executable for maximum performance.
 ---
 
 # Try it out!
 
 ```bash
-# install Notion
-curl -sSLf https://get.notionjs.com | bash
+# install Jetson
+curl -sSLf https://get.jetson.sh | bash
 
 # install Node
-notion install node
+jetson install node
 
 # start using Node
 node
