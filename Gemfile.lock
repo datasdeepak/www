@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/jetson-cli/jekyll-theme
-  revision: 0fcdb7fa79e680a6f16c5b06e9ed67cb35ea73d9
+  revision: 92277a61951a7216c3af3b2362467ef6eaebdd12
   branch: master
   specs:
     jetson-jekyll-theme (0.1.0)
